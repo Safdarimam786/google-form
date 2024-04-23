@@ -71,7 +71,7 @@ hr {
     display: flex;
     margin: auto;
     padding: 15px;
-    border-radius: 5px;
+    border-radius: 8px;
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-family: 'Quicksand', sans-serif;
     flex-direction: column;
