@@ -16,7 +16,7 @@ body {
     height: auto;
     display: flex;
     margin: auto;
-    border-top: 15px solid rgb(103, 58, 183);
+    border-top: 10px solid rgb(103, 58, 183);
     padding: 15px;
     border-radius: 5px;
     font-family: 'M PLUS Rounded 1c', sans-serif;
